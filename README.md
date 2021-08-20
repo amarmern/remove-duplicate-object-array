@@ -1,2 +1,2 @@
-# remove-duplicate-object-array
+# map-reduce-filter
 Created with CodeSandbox
